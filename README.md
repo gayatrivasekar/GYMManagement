@@ -12,3 +12,5 @@ The aim is to automate its existing manual system by the help of computerized eq
 full-fledged computer software, fulfilling their requirements, so that their valuable data/information can
 be stored for a longer period with easy accessing and manipulation of the same. Basically the
 project describes how to manage for good performance and better services for the clients.
+
+Screenshot 2026-02-20 095857.png
