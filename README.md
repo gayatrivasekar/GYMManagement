@@ -15,7 +15,8 @@ project describes how to manage for good performance and better services for the
 
 
 ## 📸 Project Screenshots
-
+![Screenshot](img/Screenshot%202026-03-03%20155950.png)
+![Screenshot](img/Screenshot%202026-03-03%20160006.png)
 ![Screenshot](img/Screenshot%202026-03-03%20152954.png)
 ![Screenshot](img/Screenshot%202026-03-03%20153006.png)
 ![Screenshot](img/Screenshot%202026-03-03%20153025.png)
