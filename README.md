@@ -13,4 +13,4 @@ full-fledged computer software, fulfilling their requirements, so that their val
 be stored for a longer period with easy accessing and manipulation of the same. Basically the
 project describes how to manage for good performance and better services for the clients.
 
-Screenshot 2026-02-20 095857.png
+
